@@ -6,7 +6,7 @@ const PhotoGrid = React.createClass({
       <div className="photo-grid">
         I'm the photo grid
       </div>
-    )
+    );
   }
 });
 

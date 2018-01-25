@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Single = React.createClass({
   render() {
@@ -6,7 +6,7 @@ const Single = React.createClass({
       <div className="single-photo">
       I'm the single
       </div>
-    )
+    );
   }
 });
 
