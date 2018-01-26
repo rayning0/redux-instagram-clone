@@ -2,7 +2,7 @@
 export function increment(index) {
   // payload: send as little info as possible. Don't send full post.
   return {
-    type: 'INCREMENT_LIKEkS',
+    type: 'INCREMENT_LIKES',
     index
   };
 }
